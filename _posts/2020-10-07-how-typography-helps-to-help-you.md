@@ -2,7 +2,7 @@
 layout: post
 title: How Typography Helps to Help You
 date: 2020-10-07T16:33:19.581Z
-header_feature_image: ../uploads/glasses-1.jpg
+header_feature_image: ../uploads/unnamed.jpg
 caption: A look at how self-help books use typography to attract buyers
   depending on its topical tones.
 comments: true
