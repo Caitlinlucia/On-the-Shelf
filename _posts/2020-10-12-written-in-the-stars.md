@@ -10,3 +10,7 @@ comments: true
 ## Philip's Guide to Stars and Planets
 
 ![](../uploads/guide-to-stars-and-planets.jpg "Philip's Guide to Stars and Planets")
+
+\[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT TEXT HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+## The Signs
