@@ -8,3 +8,5 @@ comments: true
 \[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT INTRODUCTION]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
 
 ## Philip's Guide to Stars and Planets
+
+![](../uploads/guide-to-stars-and-planets.jpg "Philip's Guide to Stars and Planets")
