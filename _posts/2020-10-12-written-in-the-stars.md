@@ -6,3 +6,5 @@ caption: A look at how cover designs differ between scientific and spiritual boo
 comments: true
 ---
 \[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT INTRODUCTION]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+## Philip's Guide to Stars and Planets
