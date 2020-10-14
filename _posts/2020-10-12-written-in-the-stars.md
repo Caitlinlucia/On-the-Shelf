@@ -11,7 +11,7 @@ Spirituality literature covers a wide range of subjects, from religion to crysta
 
 ![](../uploads/guide-to-stars-and-planets.jpg "Philip's Guide to Stars and Planets")
 
-\[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT TEXT HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+*Philip's Guide to Stars and Planets* by Sir Patrick Moor is an informative scientific book on astronomy, covering aspects of the subject such as our solar system, the stars, galaxies and constellations with numerous maps of various astronomical systems. The cover features a full page background image of a dark blue starry sky under white text stating the name and authorship. This choice in cover design immediately establishes the book's status as non-fiction and scientific, providing a no-nonsense cover without flashy colours or overly pretentious fonts to catch the eye of browsers. That is not to say that the typeface lacks any personality of course; the all-caps, serifed 
 
 ## The Signs
 
