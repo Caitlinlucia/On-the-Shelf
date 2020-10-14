@@ -20,7 +20,7 @@ Spirituality literature covers a wide range of subjects, from religion to crysta
 
 ![](../uploads/the-signs.jpg "The Signs")
 
-A first glance at the cover design of *The Signs* by Carolyne Faulkner instantly gives the impression that the book is more spiritual than scientific. The contrast of the geometric gold lines and stars against the navy blue background is reminiscent of a night sky while the gold design itself that encircles the book's title mimics that of a birth or natal chart, particularly aided by the symbols for the different planets (not to be confused with the symbols for the star signs). The cover design for 
+A first glance at the cover design of *The Signs* by Carolyne Faulkner instantly gives the impression that the book is more spiritual than scientific. The contrast of the geometric gold lines and stars against the navy blue background is reminiscent of a night sky while the gold design itself that encircles the book's title mimics that of a birth or natal chart, particularly aided by the symbols for the different planets (not to be confused with the symbols for the star signs). The cover design for this book is much busier than *Philip's Guide to Stars and Planets* but the geometricity of its layout avoids it from becoming overwhelming, instead providing a modern but mystical vibe.
 
 ##### Find the Books on Goodreads:
 
