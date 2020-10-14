@@ -5,6 +5,8 @@ date: 2020-10-12T18:50:42.040Z
 header_feature_image: ../uploads/blue-moon-header-2.jpg
 caption: A look at how cover designs differ between scientific and spiritual books
 comments: true
+tags:
+  - Books
 ---
 Spirituality literature covers a wide range of subjects, from religion to crystal work to astrology. However, given the fact that spiritualities are based largely on a set of beliefs rather than proven facts, such subjects are not considered science. This means that while geology (the study of rocks) is considered a science, crystal healing (the practise of using crystal 'chakra' or energy to heal or channel certain energies) is not. Similarly, astronomy (the study of the planets and stars) is considered a science but astrology (the practice of using planetary movements to determine and predict outcomes and behaviours) is considered to be more of a spiritual study. This naturally means that such topics are written as entirely different genres, and so the designs of their book covers tend to differ quite a lot.
 
@@ -18,7 +20,7 @@ Spirituality literature covers a wide range of subjects, from religion to crysta
 
 ![](../uploads/the-signs.jpg "The Signs")
 
-\[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT TEXT HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+A first glance at the cover design of *The Signs* by Carolyne Faulkner instantly gives the impression that the book is more spiritual than scientific. 
 
 ##### Find the Books on Goodreads:
 
