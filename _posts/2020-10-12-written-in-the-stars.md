@@ -2,6 +2,7 @@
 layout: post
 title: Written in the Stars
 date: 2020-10-12T18:50:42.040Z
+header_feature_image: ../uploads/blue-moon-header-2.jpg
 caption: A look at how cover designs differ between scientific and spiritual books
 comments: true
 ---
