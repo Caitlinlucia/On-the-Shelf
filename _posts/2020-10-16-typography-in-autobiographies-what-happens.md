@@ -16,3 +16,11 @@ comments: true
 ## I Hate Everyone, Except You
 
 ![](../uploads/i-hate-everything-excepy-you.jpg "I Hate Everyone, Except You")
+
+\[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT TEXT HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+##### Find the Books on Goodreads:
+
+*What Happened* - <https://www.goodreads.com/book/show/36125495-what-happened> 
+
+*I Hate Everyone, Except You* - <https://www.goodreads.com/book/show/29430846-i-hate-everyone-except-you>
