@@ -19,7 +19,9 @@ The typography of the cover then reinforces that in a number of ways. Clinton's 
 
 ![](../uploads/i-hate-everything-excepy-you.jpg "I Hate Everyone, Except You")
 
-The cover design for American tv personality Clinton Kelly's autobiography *I Hate Everyone, Except You* is drastically different to *What Happened*, and rightly so. The main feature of the cover is a rather gruff looking yellow and green bird, over which the title and authorship of the book is written in a seemingly random, unstructured placement. 
+The cover design for American tv personality Clinton Kelly's autobiography *I Hate Everyone, Except You* is drastically different to *What Happened*, and rightly so. The main feature of the cover is a rather gruff looking yellow and green bird, over which the title and authorship of the book is written in a seemingly random, unstructured placement. The colourful nature of the bird establishes an air of flamboyance and comedy that matches Kelly's television personality status and the tone of the book's topics, something which is aided by the gruff, hostile expression of the bird which also matches the title of the book and directly contrasts the solemn, serious tones of *What Happened.*
+
+The text is black and highlighted white, while the typeface is cursive and of a handwritten style. This 
 
 ##### Find the Books on Goodreads:
 
