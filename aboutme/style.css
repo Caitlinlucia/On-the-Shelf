@@ -1,0 +1,214 @@
+/* ---- General Styles ---- */
+body {
+	margin: 0px;
+	background-color: #efefef;
+	text-align: center;
+	color: #808080;
+	font-family: "Roboto Slab", "Libre Baskerville", serif;
+	font-weight: 400;
+}
+
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 500px;
+	width: 100%;
+	background-image: url("img/ali's_sunset_background.jpeg");
+	background-size: cover ;
+}
+
+/* Profile Picture */
+.profile_picture_circle {
+	padding-top: 150px;
+}
+
+.profile_picture {
+	background-image: url("img/me_profiles.JPG");
+	background-position: center;
+	width: 160px;
+	height: 160px;
+	border: white 5px opaque;
+	border-radius: 50%;
+	background-size: 105%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: #FAEBD7;
+	text-align: center;
+	font-size: 60px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: #FAEBD7;
+	text-align: center;
+	font-size: 28px;
+	margin-top: 0px;
+}
+
+/* Social Icons */
+
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #FF6347;
+	opacity: 1
+}
+
+.few_things_text {
+	color: #B0E0E6 solid;
+	font-size: 35px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts {
+	background-color: #EFEFEF;
+	padding-top: 5px;
+	padding-bottom: 50px;
+}
+
+.facts p {
+	text-align: center;
+	color: #808080;
+	font-size: 30px;
+	font-weight: 200;
+	line-height: 25px;
+
+	max-width: 760px;
+	margin: 30px auto 30px auto;
+	padding: 0 20px 0 20px;
+}
+
+/* Text Highlight Colour */
+.highlight {
+	color: #696969;
+	font-weight: 500;
+}
+
+/* Fact Links */
+.fact_link {
+	color: #808080;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px white;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #696969;
+	border-bottom: 3px solid #696969;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Fact Picture */
+.fact_image {
+	max-width: 400px;
+
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+.fact_image:hover {
+	transition: transform 0.5s;
+	transform: scale(0.9);
+}
+
+
+/* Public Figures List */
+.public_figures_list {
+	font-family: "Roboto Slab", "Libre Baskerville", serif;
+	text-align: center;
+	color: #808080;
+	font-size: 30px;
+	font-weight: 300;
+	list-style-type: none;
+
+	padding: 0;
+	margin: 0;
+	padding-top: 20px;
+	margin-top: -80px;
+}
+
+.public_figures_list li {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+.public_figure_header {
+font-size: 40px;
+padding-top: 50px;
+padding-bottom: 5px;
+}
+
+.fact_image_two {
+	max-width: 400px;
+	border: white solid 10px;
+
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+
+/* Book_Facts */
+.Book_Facts {
+	background-color: #EFEFEF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.Book_Facts p {
+	text-align: center;
+	color: #808080;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 80px auto 80px auto;
+	padding: 0 20px 0 20px;
+}
+
+/* Extra_Facts */
+
+.Extra_Facts {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.Extra_Facts p {
+	text-align: center;
+	font-size: 50px;
+	font-weight: 200;
+	line-height: 25px;
+
+	max-width: 760px;
+	margin: 50px auto 50px auto;
+	padding: 0 20px 0 20px;
+}
+
+
+/* Footer */
+footer {
+	background-color: #FF6347;
+	margin-top: 100px;
+	padding-bottom: 20px;
+}
