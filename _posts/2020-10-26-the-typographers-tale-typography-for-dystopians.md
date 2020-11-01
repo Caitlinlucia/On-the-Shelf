@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Typographer's Tale - Typography for Dystopians
+title: 1984 to 2020 - How Typography Has Changed for Dystopian Novels
 date: 2020-10-26T19:09:43.101Z
 header_feature_image: ../uploads/dystopian-news-page.jpg
 comments: true
