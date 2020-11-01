@@ -9,7 +9,7 @@ Dystopian novels have been a relatively popular genre of fiction since the early
 
 ## Nineteen Eighty-Four
 
-![](../uploads/87502.jpg)
+![](../uploads/220px-1984first.webp)
 
 \[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT TEXT HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
 
