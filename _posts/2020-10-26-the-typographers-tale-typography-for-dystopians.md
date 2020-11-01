@@ -2,6 +2,7 @@
 layout: post
 title: The Typographer's Tale - Typography for Dystopians
 date: 2020-10-26T19:09:43.101Z
+header_feature_image: ../uploads/dystopian-news-page.jpg
 comments: true
 ---
 \[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT INTRO HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
