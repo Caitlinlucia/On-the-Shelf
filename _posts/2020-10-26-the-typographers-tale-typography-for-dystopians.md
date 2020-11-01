@@ -5,13 +5,13 @@ date: 2020-10-26T19:09:43.101Z
 header_feature_image: ../uploads/dystopian-news-page.jpg
 comments: true
 ---
-Dystopian novels have been a relatively popular genre of fiction since the early 1900s; with *We* by Yevgeny Zamyatin acclaimed as the first dystopian novel. More well-known titles within the genre include *Fahrenheit 451* by Ray Bradbury, *1984* by George Orwell and the more recent series *The Hunger Games* by Suzanne Collins. Most dystopian novels feature a totalitarian or authoritarian society that oppresses one or many groups within that society. The authorities within such plots tend to rule through extreme invasions of privacy and control via methods not dissimilar to things that are already seen within societies around the world now; collection of individuals' technological data, policing of women's bodies and withholding/banning information that could sway people's opinions against those in power - those who are anti-establishment are punished.
+Dystopian novels have been a relatively popular genre of fiction since the early 1900s; with *We* by Yevgeny Zamyatin acclaimed as the first dystopian novel. More well-known titles within the genre include *Fahrenheit 451* by Ray Bradbury, *Nineteen Eighty-Four* by George Orwell and the more recent series *The Hunger Games* by Suzanne Collins. Most dystopian novels feature a totalitarian or authoritarian society that oppresses one or many groups within that society. The authorities within such plots tend to rule through extreme invasions of privacy and control via methods not dissimilar to things that are already seen within societies around the world now; collection of individuals' technological data, policing of women's bodies and withholding/banning information that could sway people's opinions against those in power - those who are anti-establishment are punished. As with all literature, the designs and typography for dystopian book covers has changed somewhat since the earlier novels within the genre. As society and politics has changed and technology has developed into an increasingly bigger part of our lives dystopian plots have changed focus slightly, and the designs for their covers have altered accordingly.
 
 ## Nineteen Eighty-Four
 
 ![](../uploads/220px-1984first.webp)
 
-\[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT TEXT HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+George Orwell's 1949 novel *Nineteen Eighty-Four* follows the story of a secretly anti-establishment rank-and-file worker and member of the Party (the authority in power) in an imagined futuristic Europe that is held under a Stalinesque totalitarian state.
 
 ## Followers
 
