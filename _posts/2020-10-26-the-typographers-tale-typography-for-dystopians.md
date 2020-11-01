@@ -5,7 +5,7 @@ date: 2020-10-26T19:09:43.101Z
 header_feature_image: ../uploads/dystopian-news-page.jpg
 comments: true
 ---
-\[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[INSERT INTRO HERE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+Dystopian novels have been a relatively popular genre of fiction since the early 1900s; with *We* by Yevgeny Zamyatin acclaimed as the first dystopian novel. More well known titles within the genre include *Fahrenheit 451* by Ray Bradbury, *1984* by George Orwell and the more recent series *The Hunger Games* Suzanne Collins.
 
 ## Nineteen Eighty-Four
 
