@@ -5,7 +5,6 @@ date: 2020-11-06T23:27:34.945Z
 header_feature_image: ../uploads/dystopian-news-page.jpg
 comments: true
 tags:
-  - Design
   - Books
 ---
 Dystopian novels have been a relatively popular genre of fiction since the early 1900s; with *We* by Yevgeny Zamyatin acclaimed as the first dystopian novel. More well-known titles within the genre include *Fahrenheit 451* by Ray Bradbury, and the series *The Hunger Games* by Suzanne Collins. Most dystopian novels feature a totalitarian or authoritarian society that oppresses one or many groups within that society. The authorities within such plots tend to rule through extreme invasions of privacy and control via methods not dissimilar to methods within societies around the world now; collection of individuals' data, policing of women's bodies and withholding/banning information that goes against those in power - those who are anti-establishment are punished. As with all literature, the designs and typography for dystopian book covers has changed somewhat since the earlier novels within the genre. As society and politics has changed and technology has become a bigger part of our lives dystopian plots have changed focus slightly, and the designs for their covers have altered accordingly.
