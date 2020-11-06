@@ -19,9 +19,13 @@ This representation is furthered through the typefaces of the cover. The first f
 
 ![](../uploads/42171136.jpg)
 
-*Followers* by Megan Angelo 
 
-##### Find the Books on Goodreads:
+
+*Followers* by Megan Angelo is set in a world where government appointed celebrities are expected to live their entire lives on screen for the entertainment of their followers. It follows the story of one such celebrity Marlow who, like the protagonist of *1984*, wishes to escape her role in the society she lives in. The novel provides a dark caricature of reality television culture, a concept also used in Suzanne Collins' 2008 trilogy *The Hunger Games* continuing the trend of technology being used as a weapon in dystopian stories.
+
+The colour scheme for *Followers'* first edition cover is vastly different to that of *1984's*; while *1984* has just one dark shade of green covering the cover *Followers* opts for a range of shades from pale pastel pink to navy blue. The colours are used in a geometrically designed image of three female silhouettes stood side by side and facing  to the right hand border of the book. The colours contrast with the dark nature of the book's plot and yet still manage to reflect the bubbly and flashy  of reality television
+
+##### Find The Books on Goodreads:
 
 *Nineteen Eighty-Four -* <https://www.goodreads.com/book/show/55048991-1984> 
 
