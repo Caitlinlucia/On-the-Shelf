@@ -2,7 +2,7 @@
 layout: post
 title: 1984 to 2020 - How Typography Has Changed for Dystopian Novels
 date: 2020-11-06T23:27:34.945Z
-header_feature_image: ../uploads/dystopian-news-page.jpg
+header_feature_image: ../uploads/dystopian-news-page-2.jpg
 comments: true
 tags:
   - Books
