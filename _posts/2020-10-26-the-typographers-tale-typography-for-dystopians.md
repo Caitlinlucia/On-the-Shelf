@@ -27,6 +27,8 @@ The colour scheme for *Followers'* first edition cover is vastly different to th
 
 As with *1984*, the typography for *Followers* uses two different typefaces; one bold and cursive and one bold and printed. The title of the novel is cursive and the light, flowing strokes of the letters again correlate with the idea of the truth being hidden behind elaborate lies, creating false priorities to distract from the immoral goings-on within the plot, this time through followers the celebrities amass. Meanwhile, the subtitle of the novel, '*some things aren't meant to be shared'* is written in an all capsulated, bold non-serifed font, providing a serious tone to the words that is not evident in the frivolity of the title, again demonstrating the lies behind which dystopian authorities often hide behind.
 
+In conclusion, while book covers have been more colourful and decorative for dystopian novels over time, the general typography has remained similar, fitting 
+
 ##### Find The Books on Goodreads:
 
 *Nineteen Eighty-Four -* <https://www.goodreads.com/book/show/55048991-1984> 
