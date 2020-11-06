@@ -4,12 +4,15 @@ title: 1984 to 2020 - How Typography Has Changed for Dystopian Novels
 date: 2020-10-26T19:09:43.101Z
 header_feature_image: ../uploads/dystopian-news-page.jpg
 comments: true
+tags:
+  - Design
+  - Books
 ---
 Dystopian novels have been a relatively popular genre of fiction since the early 1900s; with *We* by Yevgeny Zamyatin acclaimed as the first dystopian novel. More well-known titles within the genre include *Fahrenheit 451* by Ray Bradbury, and the series *The Hunger Games* by Suzanne Collins. Most dystopian novels feature a totalitarian or authoritarian society that oppresses one or many groups within that society. The authorities within such plots tend to rule through extreme invasions of privacy and control via methods not dissimilar to methods within societies around the world now; collection of individuals' data, policing of women's bodies and withholding/banning information that goes against those in power - those who are anti-establishment are punished. As with all literature, the designs and typography for dystopian book covers has changed somewhat since the earlier novels within the genre. As society and politics has changed and technology has become a bigger part of our lives dystopian plots have changed focus slightly, and the designs for their covers have altered accordingly.
 
 ## Nineteen Eighty-Four
 
-![](../uploads/220px-1984first.webp)
+![first edition of 1984](../uploads/220px-1984first.webp)
 
 George Orwell's 1949 novel *1984* follows the story of a secretly anti-establishment rank-and-file worker and member of the Party (the authority in power) in a futuristic Europe held under a Stalin-esque totalitarian state. There isn't much room within the book's societal regime for personal choice and individuality, which is very much reflected in the first edition's front cover. Text stating the name of the book and the authorship covers the expanse of the front design, leaving no room for images or additional text, much like the restrictive nature of the plot's setting. There is also a rigid structure to the text; centrally aligned and in straight lines that go from the left margin to the right, yet there is a layering of the book's title with 1984 written in both numerical and alphabetical form. This throws into question the true form of the title, just as the protagonist of the book questions the system.
 
@@ -17,7 +20,7 @@ This representation is furthered through the typefaces of the cover. The first f
 
 ## Followers
 
-![](../uploads/42171136.jpg)
+![first edition of Followers](../uploads/42171136.jpg)
 
 
 
