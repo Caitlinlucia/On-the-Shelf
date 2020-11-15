@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Big Book of Typography
-date: 2020-11-08T18:50:18.913Z
+date: 2020-11-15T17:56:31.238Z
 header_feature_image: ../uploads/ancient-china-encyclopedia.jpg
 comments: true
 ---
