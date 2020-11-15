@@ -2,6 +2,7 @@
 layout: post
 title: The Big Book of Typography
 date: 2020-11-08T18:50:18.913Z
+header_feature_image: ../uploads/ancient-china-encyclopedia.jpg
 comments: true
 ---
 Before the age of the internet encyclopaedias were a major source of extra-curricular learning for children and adults alike, available in the form of individual bumper books about a whole topic (such as history for children) or multiple volume collections. Since the growth of the world wide web however encyclopaedia sales have naturally declined; with the answer to any question just a few clicks away people are less inclined to fill their bookshelves with thick books of general knowledge. In fact, in 2012 Encyclopaedia Britannica completely shut down its publication of bound encyclopaedias, moving entirely online after sales decreased dramatically in the early Nineties (though they do still appear to be publishing children's encyclopaedias). Other notable encyclopaedia publishers of the 20th and 21st Century include Usborne and DK Publishers, both of which are also both online and still print children's encyclopaedias. For those that do still publish print versions of their encyclopaedias, typography and the design of their book covers is just as, if not more important in attracting buyers as it was thirty years ago. 
